@@ -1,4 +1,4 @@
-# # Bonjour, je suis KongaDan 👋
+ # Bonjour, je suis KongaDan 👋
 
 ## 🚀 À propos de moi
 
