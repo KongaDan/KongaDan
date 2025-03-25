@@ -1,16 +1,29 @@
-# Hi there! 👋
-Je suis analyste de données avec une solide expérience dans l'extraction, l'analyse et l'interprétation de données complexes pour orienter les décisions éclairées. Mon expertise réside dans la transformation des données brutes en insights exploitables, permettant aux entreprises d'optimiser leurs stratégies et opérations. Fort d'un background en développement full-stack, j'apporte une perspective unique à l'analyse de données, en créant des applications data-driven dynamiques et fluides.
+# # Bonjour, je suis KongaDan 👋
 
-📊 Compétences :
+## 🚀 À propos de moi
 
-Analyse de données : Python (Pandas, NumPy), R
-Visualisation de données : Matplotlib, Seaborn, Tableau
-Gestion de bases de données : SQL, PostgreSQL
-Analyse statistique : Tests d'hypothèses, modèles de régression
-Outils : Excel, Power BI, Git, Jupyter Notebook
-Développement Web : Django, Django Rest Framework, React, JavaScript, HTML, CSS, Bootstrap
-Passionné par l'exploitation des données pour révéler des tendances et résoudre des problèmes concrets, je suis également compétent dans la création d'applications web robustes. Mon double profil me permet d'aborder l'analyse de données avec une vision de développeur, assurant ainsi une mise en œuvre efficace des solutions. Connectons-nous pour transformer les données en décisions impactantes, tout en créant des expériences web innovantes !
-<!---
-KongaDan/KongaDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Développeur passionné, je me spécialise dans la création d'applications web performantes et conviviales. Mon expertise couvre une variété de technologies modernes, me permettant de concevoir des solutions innovantes et efficaces.
+
+## 🛠️ Technologies et outils
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092F44?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+## 📊 Statistiques GitHub
+
+![Statistiques GitHub de KongaDan](https://github-readme-stats.vercel.app/api?username=KongaDan&show_icons=true&theme=radical)
+
+## 📫 Me contacter
+
+- **Email** : [Mon email](kongadan68@gmail.com)
+
+
+
+
