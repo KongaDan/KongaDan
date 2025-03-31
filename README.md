@@ -1,6 +1,6 @@
 # 👋 Salut, je suis KongaDan 
 
-**🎯 Architecte de solutions digitales | Full-Stack Alchimiste | Codeur Passionné**
+**🎯 Full-Stack Developper | Codeur Passionné**
 
 ---
 
