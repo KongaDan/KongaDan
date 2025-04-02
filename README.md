@@ -21,7 +21,7 @@ React | TypeScript | Django REST | Symfony API | Figma
 
 ### 💻 Tech & Tools Theatre
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,django,symfony,nodejs,postgres,git,figma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,python,php,js,ts,react,Bootstrap,django,symfony,nodejs,postgres,mysql,git,wordpress,figma,postman&theme=dark&perline=7" />
 </p>
 
 ---
